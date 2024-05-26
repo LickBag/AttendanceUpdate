@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lickBag>
+    <attendanceAddin>
+        <version>23.11.25.0</version>
+        <x64fileURL>https://gitee.com/LickBag/AttendanceUpdate/raw/main/AttendanceAddin_23.11.25_64bit.msi</x64fileURL>
+        <x86fileURL>https://gitee.com/LickBag/AttendanceUpdate/raw/main/AttendanceAddin_23.11.25_32bit.msi</x86fileURL>
+        <downloadURL>https://www.aliyundrive.com/s/EF1xzHYigGK</downloadURL>
+        <datetypeURL>https://gitee.com/LickBag/AttendanceUpdate/raw/main/DateType.db</datetypeURL>
+        <versionLogs>
+            <versionLog>
+                <version>23.11.25.0</version>
+                <log>适配23年11月份的考勤表格式</log>
+            </versionLog>
+            <versionLog>
+                <version>23.10.14.0</version>
+                <log>修复了计算请假时长的方式：原来以秒计算，现在改为非连续请假时则单独计算请假时长后再累加</log>
+                <log>兼容最新版WPS：最新版的WPS中考勤检查结果窗口非常小，显示不正常</log>
+            </versionLog>
+            <versionLog>
+                <version>23.2.4.0</version>
+                <log>完善了只有一次刷卡时的检查逻辑</log>
+            </versionLog>
+            <versionLog>
+                <version>23.2.1.0</version>
+                <log>适配最新的考勤表</log>
+                <log>其它优化</log>
+            </versionLog>
+            <versionLog>
+                <version>23.1.5.0</version>
+                <log>修复了分析刷卡信息的bug</log>
+                <log>完善了检查远程办公的检查逻辑</log>
+            </versionLog>
+            <versionLog>
+                <version>22.12.2.0</version>
+                <log>8:30:00打卡算正常(之前当作需要请假算了)</log>
+                <log>备注中填写远程/居家办公*小时/H/h都算正确</log>
+            </versionLog>
+            <versionLog>
+                <version>22.11.1.0</version>
+                <log>适配最新的考勤表</log>
+                <log>增加云之家的刷卡记录的检查</log>
+            </versionLog>
+        </versionLogs>
+    </attendanceAddin>
+</lickBag>
