@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <lickBag>
     <attendanceAddin>
-        <version>23.11.25.0</version>
-        <x64fileURL>https://gitee.com/LickBag/AttendanceUpdate/raw/main/AttendanceAddin_23.11.25_64bit.msi</x64fileURL>
-        <x86fileURL>https://gitee.com/LickBag/AttendanceUpdate/raw/main/AttendanceAddin_23.11.25_32bit.msi</x86fileURL>
-        <downloadURL>https://www.aliyundrive.com/s/EF1xzHYigGK</downloadURL>
-        <datetypeURL>https://gitee.com/LickBag/AttendanceUpdate/raw/main/DateType.db</datetypeURL>
+        <version>24.5.26.0</version>
         <versionLogs>
+			<versionLog>
+                <version>24.5.26.0</version>
+                <log>测试</log>
+            </versionLog>
             <versionLog>
                 <version>23.11.25.0</version>
                 <log>适配23年11月份的考勤表格式</log>
