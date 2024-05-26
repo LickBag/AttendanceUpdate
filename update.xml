@@ -1,12 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <lickBag>
     <attendanceAddin>
-        <version>24.5.26.0</version>
+        <version>23.11.25.0</version>
         <versionLogs>
-			<versionLog>
-                <version>24.5.26.0</version>
-                <log>测试</log>
-            </versionLog>
             <versionLog>
                 <version>23.11.25.0</version>
                 <log>适配23年11月份的考勤表格式</log>
